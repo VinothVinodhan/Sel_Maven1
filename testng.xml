@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="test.Swipe_Example"/>
+      <class name="feature.MSMEnroll"/>
+      <class name="test.DHAutomation"/>
+      <class name="test.TestNGClass1"/>
+      <class name="test.TestNGClass"/>
+      <class name="test.MsmAccessibility"/>
+      <class name="feature.PlayStore"/>
+      <class name="test.WebMob"/>
+      <class name="test.QarsGM"/>
+      <class name="test.LaunchApp"/>
+      <class name="test.QarsGM_Mobile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
